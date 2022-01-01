@@ -12,6 +12,7 @@
 📄 &nbsp; 
 
 <img src="./img/Night-Coding.gif"/>
+<img src="./img/linux_rounded.gif"/>
 
 
 ### 🛠 &nbsp;Tech Stack
