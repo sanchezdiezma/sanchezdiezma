@@ -1,5 +1,5 @@
 ### Hey there! I'm Jesus 👋
-<img src="./img/dino_rounded.gif">
+<img src="./img/dino_rounded.gif"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -11,7 +11,7 @@
 ✉️ &nbsp; 
 📄 &nbsp; 
 
-<img src="./img/Night-Coding.gif">
+<img src="./img/Night-Coding.gif"/>
 
 
 ### 🛠 &nbsp;Tech Stack
