@@ -11,8 +11,8 @@
 ✉️ &nbsp; 
 📄 &nbsp; 
 
-<img src="./img/Night-Coding.gif"/>
-<img src="./img/linux_rounded.gif"/>
+<img src="./img/Night-Coding.gif" align="botton" width="30%"/>
+
 
 
 ### 🛠 &nbsp;Tech Stack
