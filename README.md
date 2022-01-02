@@ -3,16 +3,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I’m currently learning React JS.\
-🌱 &nbsp;
-✍️ &nbsp; 
-💬 &nbsp; 
-✉️ &nbsp; 
-📄 &nbsp; 
-
-<img src="./img/Night-Coding.gif" align="botton" width="30%"/>
-
+- 🔭 I like exploring new technologies and develop software solutions and quick hacks.
+- 🌱 I’m currently learning React JS.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: 
+- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -29,17 +25,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign);
+
+<img src="./img/Night-Coding.gif" align="botton" width="30%"/>
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
