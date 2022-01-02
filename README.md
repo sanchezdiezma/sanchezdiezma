@@ -3,11 +3,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I like exploring new technologies and develop software solutions and quick hacks.
+- 🔭 I like exploring new technologies, software solutions and quick hacks.
 - 🌱 I’m currently learning React JS.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+- 💬 Ask me about css,flexbox,grid and graphic design
+- 📫 How to reach me in diezmadev@gmail.com
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
 
