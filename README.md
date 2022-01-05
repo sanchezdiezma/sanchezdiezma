@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning React JS.
 - 💬 Ask me about css,flexbox,grid and graphic design
 - 📫 How to reach me in diezmadev@gmail.com
+- 👉 Check it out my website https://sanchezdiezma.github.io/diezma.github.io/
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
 
