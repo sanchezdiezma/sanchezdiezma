@@ -32,7 +32,7 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 <img src="./img/Night-Coding.gif" align="botton" width="30%"/>
-<img src="./img/stick.png"/>
+<img src="./img/stick.png"align="botton" width="30%"/>
 
 
 
