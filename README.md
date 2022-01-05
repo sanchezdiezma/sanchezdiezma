@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img src="./img/stick.png"align="botton" width="20%"/>
+
 
 - 🔭 I like exploring new technologies, software solutions and quick hacks.
 - 🌱 I’m currently learning React JS.
