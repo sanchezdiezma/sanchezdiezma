@@ -3,6 +3,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+<img src="./img/stick.png"align="botton" width="20%"/>
+
 - 🔭 I like exploring new technologies, software solutions and quick hacks.
 - 🌱 I’m currently learning React JS.
 - 💬 Ask me about css,flexbox,grid and graphic design
@@ -11,7 +13,7 @@
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
 
-<img src="./img/stick.png"align="right" width="20%"/>
+
 
 
 
