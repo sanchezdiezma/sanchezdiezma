@@ -3,16 +3,16 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I’m currently learning React JS.\
-🌱 &nbsp;
-✍️ &nbsp; 
-💬 &nbsp; 
-✉️ &nbsp; 
-📄 &nbsp; 
+- 🔭 I like exploring new technologies, software solutions and quick hacks.
+- 🌱 I’m currently learning React JS.
+- 💬 Ask me about css,flexbox,grid and graphic design
+- 📫 How to reach me in diezmadev@gmail.com
+- 👉 Check it out my website https://sanchezdiezma.github.io/diezma.github.io/
+- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
-<img src="./img/Night-Coding.gif"/>
-<img src="./img/linux_rounded.gif"/>
+
+
+
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -31,15 +31,9 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+<img src="./img/Night-Coding.gif" align="botton" width="30%"/>
+<img src="./img/stick.png"/>
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
